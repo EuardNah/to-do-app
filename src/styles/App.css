@@ -26,7 +26,11 @@
   margin-top: 15px;
   justify-content: space-between;
   align-items: center;
+  background: gray;
+}
 
+.post__btns {
+  display: flex;
 }
 
 .post-enter {
